@@ -1,0 +1,42 @@
+# A tibble: 127 x 6
+   Index     N Predictors                `R-Square` `Adj. R-Square` `Mallow's Cp`
+ * <int> <int> <chr>                          <dbl>           <dbl>         <dbl>
+ 1     1     1 Hp                            0.576           0.574          224. 
+ 2     2     1 exp_brand                     0.398           0.395          429. 
+ 3     3     1 Curb.Weight.lb.               0.309           0.306          531. 
+ 4     4     1 Luxuary                       0.290           0.288          552. 
+ 5     5     1 AWD                           0.0988          0.0954         773. 
+ 6     6     1 Hybrid.option.                0.0882          0.0848         785. 
+ 7     7     1 SUV                           0.0178          0.0141         866. 
+ 8     8     2 Hp exp_brand                  0.750           0.748           25.3
+ 9     9     2 Hp Luxuary                    0.681           0.679          105. 
+10    10     2 Curb.Weight.lb. exp_brand     0.647           0.644          144. 
+# ... with 117 more rows
+# A tibble: 127 x 6
+   Index     N Predictors                `R-Square` `Adj. R-Square` `Mallow's Cp`
+ * <int> <int> <chr>                          <dbl>           <dbl>         <dbl>
+ 1     1     1 Hp                            0.576           0.574          224. 
+ 2     2     1 exp_brand                     0.398           0.395          429. 
+ 3     3     1 Curb.Weight.lb.               0.309           0.306          531. 
+ 4     4     1 Luxuary                       0.290           0.288          552. 
+ 5     5     1 AWD                           0.0988          0.0954         773. 
+ 6     6     1 Hybrid.option.                0.0882          0.0848         785. 
+ 7     7     1 SUV                           0.0178          0.0141         866. 
+ 8     8     2 Hp exp_brand                  0.750           0.748           25.3
+ 9     9     2 Hp Luxuary                    0.681           0.679          105. 
+10    10     2 Curb.Weight.lb. exp_brand     0.647           0.644          144. 
+# ... with 117 more rows
+# A tibble: 127 x 6
+   Index     N Predictors                `R-Square` `Adj. R-Square` `Mallow's Cp`
+ * <int> <int> <chr>                          <dbl>           <dbl>         <dbl>
+ 1     1     1 Hp                            0.576           0.574          224. 
+ 2     2     1 exp_brand                     0.398           0.395          429. 
+ 3     3     1 Curb.Weight.lb.               0.309           0.306          531. 
+ 4     4     1 Luxuary                       0.290           0.288          552. 
+ 5     5     1 AWD                           0.0988          0.0954         773. 
+ 6     6     1 Hybrid.option.                0.0882          0.0848         785. 
+ 7     7     1 SUV                           0.0178          0.0141         866. 
+ 8     8     2 Hp exp_brand                  0.750           0.748           25.3
+ 9     9     2 Hp Luxuary                    0.681           0.679          105. 
+10    10     2 Curb.Weight.lb. exp_brand     0.647           0.644          144. 
+# ... with 117 more rows
